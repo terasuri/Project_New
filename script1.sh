@@ -1,5 +1,5 @@
 #!/bin/bash
 
 nslookup VMGit
-echo hostname
+echo $(hostname)
 
