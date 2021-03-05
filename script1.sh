@@ -8,3 +8,4 @@ echo $(hostname)
 #Provides who is executing this script
 echo $(whoami)
 
+hellooooooooo
